@@ -16,3 +16,5 @@ git remote add origin <link do repositório criado no GitHub> = Vincula o reposi
 git remote -v = Identifica qual repositório remoto está vinculado a repositório no git
 
 git push origin master = Empurra as informações do repositório local para o remoto
+
+git pull <link do repositório criado no GitHub> = Empurra as informações do repositório remoto para o repositório local
