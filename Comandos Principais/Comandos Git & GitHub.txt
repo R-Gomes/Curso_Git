@@ -17,4 +17,4 @@ git remote -v = Identifica qual repositório remoto está vinculado a repositór
 
 git push origin master = Empurra as informações do repositório local para o remoto
 
-git pull <link do repositório criado no GitHub> = Empurra as informações do repositório remoto para o repositório local
+git pull <link do repositório criado no GitHub> = Empurra as informações do repositório remoto para o repositório local.
