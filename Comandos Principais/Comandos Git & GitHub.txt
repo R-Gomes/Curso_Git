@@ -1,0 +1,18 @@
+Comandos Importantes para o Git
+
+git init = Este comando inicia um repositório ao git
+
+git add * = Adiciona o repositório e quaisquer alterações ao git
+
+git commit -m "informação breve sobre o commit" = Comita o repositório local
+
+git status = Informa se houve alguma alteração no diretório local
+
+------------------------------------------------------------------------
+Apontar o repositório criado para o GitHub
+
+git remote add origin <link do repositório criado no GitHub> = Vincula o repositório local ao repositório remoto
+
+git remote -v = Identifica qual repositório remoto está vinculado a pasta no git
+
+git push origin master = Empurra as informações do repositório local para o remoto
